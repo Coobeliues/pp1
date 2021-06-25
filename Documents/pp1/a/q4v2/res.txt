@@ -1,0 +1,4 @@
+do : 3
+doing : 1
+how : 4
+you : 2
