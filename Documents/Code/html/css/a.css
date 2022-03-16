@@ -1,0 +1,20 @@
+.card {
+    /* стили для всех элементов с class="card" */
+    background: #333; /* фон серого цвета */
+}
+
+#button-go-to-top {
+    /* стили для элемента с id="button-go-to-top" */
+    text-decoration: underline; /* подчёркивание текста */
+}
+h1 {
+    color: red;
+     }
+[data-my-custom-attribute="my-custom-value"] {
+        color: red;
+}
+* {
+    margin: 0;
+  }
+  
+  /* абсолютно всем элементам будет установлен margin: 0 */
